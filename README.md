@@ -2,7 +2,8 @@
 
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
-📌  This repository contains the implementation of a **Wi-Fi Radar System** that uses an **ultrasonic sensor** to detect objects and transmits the distance data to a **web server** using **ESP32**. The detected objects are also displayed on a **graphical interface**, with real-time updates on their positions and distances.
+📌 This repository contains the implementation of a **Wi-Fi Radar System** that uses an **ultrasonic sensor** to detect objects and transmits the distance data to a **web server** using **ESP32**. The detected objects are also displayed on a **graphical interface**, with real-time updates on their positions and distances.
+
 ---
 
 ## 📖 Table of Contents  
